@@ -3,5 +3,6 @@ import terser from "@rollup/plugin-terser";
 
 export default withSolid({
   targets: ["esm", "cjs"],
+  plugins: [terser()],
   input: 'src/index.ts'
 });
