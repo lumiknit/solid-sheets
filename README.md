@@ -7,7 +7,7 @@ Modal / sheets helper for SolidJS
 ### Install
 
 ```bash
-pnpm add https://github.com/lumiknit/solid-sheets
+pnpm add https://github.com/lumiknit/solid-sheets#v0.1.0
 ```
 
 ### Modal
