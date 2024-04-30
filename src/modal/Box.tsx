@@ -6,7 +6,7 @@ import {
   onMount,
   Setter,
 } from 'solid-js';
-import { closeModal, deleteModal, State, animate, ANIMATION_ID } from './state';
+import { closeModal, deleteModal, State, animate } from './state';
 import { ModalID, ModalLifecycle, ModalOptions } from './type';
 
 type Props = {

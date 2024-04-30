@@ -1,8 +1,6 @@
 import { Accessor, Component, createSignal, Setter } from 'solid-js';
 import { AdditionalProps, ModalID, ModalLifecycle, ModalOptions } from './type';
 
-export const ANIMATION_ID = '-solid-sheets-modal-ani';
-
 /**
  * Modal data kept in the state.
  */
