@@ -1,5 +1,5 @@
 {
-  "name": "solid-sheets",
+  "name": "@lumiknit/solid-sheets",
   "version": "0.1.0",
   "description": "Modal & Top/Bottom Sheets for SolidJS",
   "author": "lumiknit (aasr4r4@gmail.com)",
